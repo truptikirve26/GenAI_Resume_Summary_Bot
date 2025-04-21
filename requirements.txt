@@ -5,3 +5,4 @@ transformers
 faiss-cpu
 python-dotenv
 pypdf2
+torch
